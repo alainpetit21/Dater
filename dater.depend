@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1168386774 source:/home/alain/Work/Personnal/Code/dater/main.cpp
+	<iostream>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+	<stdlib.h>
+	<utime.h>
+
